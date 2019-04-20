@@ -5,6 +5,6 @@ class HelloBot(BotPlugin):
     """'Hello!' plugin for Errbot"""
 
     @botcmd
-    def hello(self, msg, args):
+    def HelloBot(self, msg, args):
         """Say hello to someone"""
         return "Hello, " + format(msg.frm)

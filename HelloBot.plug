@@ -1,6 +1,6 @@
 [Core]
 Name = HelloBot
-Module = hello
+Module = HelloBot
 
 [Python]
 Version = 2+
